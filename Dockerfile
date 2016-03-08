@@ -34,6 +34,7 @@ RUN apt-get install -y -q                              \
         mercurial                                      \
         multistrap                                     \
         patch                                          \
+        pkg-config                                     \
         python-software-properties                     \
         software-properties-common                     \
         subversion                                     \
